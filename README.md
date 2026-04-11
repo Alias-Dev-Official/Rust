@@ -33,7 +33,7 @@ This repository serves as the central hub for my transition into **System Engine
 * **Distro:** [CachyOS](https://cachyos.org/) (Arch-based, optimized for performance)
 * **Kernel:** High-performance Linux kernel
 * **Shell:** Zsh / Fish
-* **Editor:** [Your Editor Here - e.g. Zed / Neovim]
+* **Editor:** [Code OSS]
 * **Toolchain:** `rustup`, `cargo`, `bacon`
 
 ---
